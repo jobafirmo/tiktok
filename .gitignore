@@ -1,0 +1,15 @@
+# Bases e resultados privados
+/dados/
+/exportacoes/
+/relatorios/
+
+# Credenciais
+.env
+.env.*
+*.key
+*.pem
+
+# Arquivos temporários
+*.log
+.DS_Store
+__pycache__/
